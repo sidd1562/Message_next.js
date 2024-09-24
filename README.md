@@ -14,11 +14,15 @@ pnpm dev
 bun dev
 ```
 
-```
 .evn.example
-
+```
 add MongoDB database
-add Secret Key and 
+add Secret Key and
+
+```
+run 
+```
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
